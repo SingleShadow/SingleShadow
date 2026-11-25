@@ -12,7 +12,7 @@
 
 习惯在需求评审阶段就把边界问清楚，并在编码前理清模块划分与状态流转。近两年更多关注 AI Agent 与全栈独立开发，做过随机地图生成、LLM 集成、零依赖全栈等探索。
 
-工作之外维护个人主页与若干开源项目，也做小程序、MCP 工具链等小产品。技术取向偏轻架构、可验证的交付。
+工作之外维护个人主页与若干开源项目：给 Dyad 做了界面汉化与 Windows 缺陷修复，也做了支持一键成书的墨稿 InkDraft，另有小程序、MCP 工具链等小产品。技术取向偏轻架构、可验证的交付。
 
 ## 🛠 技术栈
 
@@ -44,6 +44,8 @@
 | boiling-point | 沸点创意：B 站爆款标题分析工具与内容获客素材，0 预算验证。 | JavaScript | [GitHub](https://github.com/SingleShadow/boiling-point)
 | engstage | EngStage：面向海外用户的 AI 英语成长助手。 | JavaScript · AI | [GitHub](https://github.com/SingleShadow/engstage)
 | singleShadow.github.io | 个人站点，本页即由 README 数据自动生成。 | HTML · CSS | [GitHub](https://github.com/SingleShadow/singleShadow.github.io)
+| 墨稿 InkDraft | 本地优先的 AI 网文写作工具：创意 → 大纲 → 分卷 → 章纲 → 正文，一键成书五段式流水线，草稿可编辑、AI 占比可追溯。 | React · Node.js · Tiptap | [GitHub](https://github.com/SingleShadow/inkdraft) · [Gitee](https://gitee.com/pro_coder/inkdraft)
+| Dyad（汉化 fork） | 本地开源 AI 应用构建器的个人 fork：42+ 提交界面汉化，覆盖设置、资源库与部署连接器，并修复 Windows 白屏与 EPERM 问题。 | Electron · React · i18n · Windows | [GitHub](https://github.com/SingleShadow/dyad) · [Gitee](https://gitee.com/pro_coder/dyad)
 
 ### 在研 / 独立项目
 
