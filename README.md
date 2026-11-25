@@ -8,52 +8,54 @@
 
 ## 👋 关于我
 
-12 年前端开发经验，长期深耕金融科技与企业级中后台，主导过投研平台、微前端架构、AI 内容溯源等核心系统。近两年聚焦 **AI Agent 与全栈独立开发**，习惯把一个想法快速做成可运行的产品。
+12 年前端开发经验，长期深耕金融科技与企业级中后台。目前在华泰证券睿鉴（HTSC 投研一体化平台 amis）项目承担前端开发工作，涉及 React / Umi / Ant Design Pro 等技术栈。
 
-工程取向：偏爱零依赖 / 轻架构、可验证的交付，以及能把复杂业务拆成清晰模块的设计。
+习惯在需求评审阶段就把边界问清楚，并在编码前理清模块划分与状态流转。近两年更多关注 AI Agent 与全栈独立开发，做过随机地图生成、LLM 集成、多 Agent 交易框架等探索。
+
+工作之外维护个人主页与若干开源项目，也做小程序、MCP 工具链等小产品。技术取向偏轻架构、可验证的交付。
 
 ## 🛠 技术栈
 
-- **核心**：React · TypeScript · JavaScript · 前端架构 · 微前端 · 工程化 · 性能优化
-- **框架与库**：Umi · Dva · Ant Design Pro · Redux · React-Router · Webpack 5 Module Federation · Vite · Tiptap · 微信小程序 · Node.js
-- **工具与扩展**：Git · ESLint · CI/CD · Docker · SQLite · MCP · Figma · Office/Excel API · SSE · Python
+- **核心能力**：React · TypeScript · 前端架构 · 微前端 · 工程化 · 性能优化
+- **框架与库**：Umi · Dva · Ant Design Pro · Redux · Webpack 5 · Module Federation · Vite · Tiptap
+- **工具与扩展**：Git · ESLint · CI/CD · Docker · SQLite · MCP · Figma · SSE · Python
 - **领域经验**：投研平台 · 金融数据可视化 · 信评审批 · 审计函证 · 富文本编辑 · AI 内容溯源 · 人车家
 
 ## 💼 工作经历
 
 | 时间 | 公司 | 角色 / 项目 |
 | --- | --- | --- |
-| 2024.12 – 2026.09 | 南京争锋信息科技 | 前端开发 · 睿鉴（华泰证券 HTSC 投研一体化平台） |
-| 2021.05 – 2024.11 | 北京灵矶互联 | 前端开发 · 睿鉴 / zmind 流程图 / 估值模型 |
-| 2019.05 – 2021.05 | 北京企财科技 | 前端开发 · 审计函证系统 |
-| 2016.05 – 2019.05 | 北京踏行天际 | H5 移动开发 · 踏行一步小程序 / 智能动感单车 |
-| 2014.08 – 2016.03 | 北京富赛厚德资产 | Web 前端 · 金融产品 / 活动页 |
-| 2024 – 至今 | 独立开发 | OneNest / TradingAgents / Dungeon AI / MCP 工具链 |
+| 2024.12 — 2026.09 · 北京 | 南京争锋信息科技 · 睿鉴（华泰证券 HTSC 投研一体化平台） | 前端开发工程师 |
+| 2021.05 — 2024.11 · 北京 | 北京灵矶互联 · 睿鉴 / zmind 流程图 / 估值模型 | 前端开发工程师 |
+| 2019.05 — 2021.05 · 北京 | 北京企财科技 · 审计函证系统 | 前端开发工程师 |
+| 2016.05 — 2019.05 · 北京 | 北京踏行天际 · 踏行一步小程序 / 智能动感单车联盟 | H5 移动开发工程师 |
+| 2014.08 — 2016.03 · 北京 | 北京富赛厚德资产 · 金融产品 / 活动页 | Web 前端开发 |
+| 2024 — 至今 | 个人项目 / 创业探索 · OneNest / TradingAgents / Dungeon AI | 独立开发者 |
 
 ## 🚀 项目
 
-> 新项目直接往下追加一行即可，本文件会同步到 GitHub 与 Gitee 主页。
+> 新项目在 `site-data.js` 的 projects 数组加一项即可，本文件与 Pages 首页会自动同步。
 
 ### 开源项目
 
 | 项目 | 简介 | 技术栈 | 链接 |
 | --- | --- | --- | --- |
-| ai-skills-guide | Codex / Claude Agent Skills 大全，系统化整理 Agent 开发技能 | Python · Markdown | [GitHub](https://github.com/SingleShadow/ai-skills-guide) |
-| boiling-point | 沸点创意：B 站爆款标题分析工具与内容获客素材（0 预算验证） | JavaScript | [GitHub](https://github.com/SingleShadow/boiling-point) |
-| engstage | EngStage：面向海外用户的 AI 英语成长助手 | JavaScript | [GitHub](https://github.com/SingleShadow/engstage) |
-| chatbot-ui | 聊天机器人 UI | TypeScript | [GitHub](https://github.com/SingleShadow/chatbot-ui) |
-| ChatGPTWeb | ChatGPT Web 客户端 | Vue | [GitHub](https://github.com/SingleShadow/ChatGPTWeb) |
-| singleShadow.github.io | 个人站点 | HTML | [GitHub](https://github.com/SingleShadow/singleShadow.github.io) |
+| ai-skills-guide | Codex / Claude Agent Skills 大全，系统化整理 Agent 开发技能。 | Python · Markdown | [GitHub](https://github.com/SingleShadow/ai-skills-guide)
+| boiling-point | 沸点创意：B 站爆款标题分析工具与内容获客素材，0 预算验证。 | JavaScript | [GitHub](https://github.com/SingleShadow/boiling-point)
+| engstage | EngStage：面向海外用户的 AI 英语成长助手。 | JavaScript · AI | [GitHub](https://github.com/SingleShadow/engstage)
+| chatbot-ui | 聊天机器人 UI，可复用的对话界面组件。 | TypeScript | [GitHub](https://github.com/SingleShadow/chatbot-ui)
+| ChatGPTWeb | ChatGPT Web 客户端。 | Vue | [GitHub](https://github.com/SingleShadow/ChatGPTWeb)
+| singleShadow.github.io | 个人站点，本页即由 README 数据自动生成。 | HTML · CSS | [GitHub](https://github.com/SingleShadow/singleShadow.github.io)
 
 ### 在研 / 独立项目
 
 | 项目 | 简介 | 技术栈 |
 | --- | --- | --- |
-| OneNest | 家庭档案管理系统，Node 22 内置 http + SQLite 零依赖全栈，JWT 鉴权 + 地图地址选择 | Node.js · SQLite · React |
-| TradingAgents | 多 Agent 股票交易框架，支持 A 股 / 港股，接入东方财富数据源 | Python · Node.js · Agent |
-| Dungeon AI Demo | 随机地图生成、AI NPC 行为、LLM 集成、Pygame 视线系统 | Python · LLM · 游戏 |
-| 孕期日记小程序 | 微信小程序 + 云服务，体重 / 胎动 / 产检记录、孕期知识、微信登录 | 微信小程序 · 云数据库 |
-| 墨刀转代码 MCP | 设计稿直接生成代码的 MCP 服务器，打通设计到代码的自动化链路 | Node.js · MCP |
+| OneNest | 家庭档案管理系统，Node 22 内置 http + SQLite 零依赖全栈，JWT 鉴权 + 地图地址选择。 | Node.js · SQLite · React
+| TradingAgents | 多 Agent 股票交易框架，支持 A 股 / 港股，接入东方财富数据源。 | Python · Node.js · Agent
+| Dungeon AI Demo | 随机地图生成、AI NPC 行为设计、LLM 集成与 Pygame 视线系统。 | Python · LLM · 游戏
+| 孕期日记小程序 | 微信小程序 + 云服务，体重 / 胎动 / 产检记录、孕期知识与微信登录。 | 微信小程序 · 云数据库
+| 墨刀转代码 MCP | 设计稿直接生成代码的 MCP 服务器，打通设计到代码的自动化链路。 | Node.js · MCP
 
 ## 🎓 教育背景
 
@@ -62,9 +64,10 @@
 
 ## 📫 联系我
 
-- **Email**：15201130117@163.com
-- **GitHub**：[@SingleShadow](https://github.com/SingleShadow)
-- **Gitee**：[@pro_coder](https://gitee.com/pro_coder)
+- **EMAIL**：15201130117@163.com
+- **GITHUB**：github.com/SingleShadow
+- **GITEE**：gitee.com/pro_coder
+- **LOCATION**：北京 · 顺义区
 
 ---
 
