@@ -14,12 +14,15 @@
 
 工作之外维护个人主页与若干开源项目：给 Dyad 做了界面汉化与 Windows 缺陷修复，也做了支持一键成书的墨稿 InkDraft，另有小程序、MCP 工具链等小产品。技术取向偏轻架构、可验证的交付。
 
+保持持续学习：2026 年 10 月学完 LangChain，11 月学完 LangGraph，目前正在学 Java，补齐后端与工程化视角。
+
 ## 🛠 技术栈
 
 - **核心能力**：React · TypeScript · 前端架构 · 微前端 · 工程化 · 性能优化
 - **框架与库**：Umi · Dva · Ant Design Pro · Redux · Webpack 5 · Module Federation · Vite · Tiptap
 - **工具与扩展**：Git · ESLint · CI/CD · Docker · SQLite · MCP · Figma · SSE · Python
 - **领域经验**：投研平台 · 金融数据可视化 · 信评审批 · 审计函证 · 富文本编辑 · AI 内容溯源 · 人车家
+- **持续学习**：LangChain（2026.10 已学） · LangGraph（2026.11 已学） · Java（学习中）
 
 ## 💼 工作经历
 
@@ -70,4 +73,4 @@
 
 ---
 
-*最后更新：2026-11-25*
+*最后更新：2026-11-26*
