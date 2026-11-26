@@ -12,7 +12,7 @@
 
 习惯在需求评审阶段就把边界问清楚，并在编码前理清模块划分与状态流转。近两年更多关注 AI Agent 与全栈独立开发，做过随机地图生成、LLM 集成、零依赖全栈等探索。
 
-工作之外维护个人主页与若干开源项目：给 Dyad 做了界面汉化与 Windows 缺陷修复，也做了支持一键成书的墨稿 InkDraft，另有 Agent Lab、小程序、MCP 工具链等小产品。技术取向偏轻架构、可验证的交付。
+工作之外维护个人主页与若干开源项目：给 Dyad 做了界面汉化与 Windows 缺陷修复，也做了支持一键成书的墨稿 InkDraft，另有 Agent Lab、小程序、MCP 工具链等小产品。近期更关注真正用得上的生活工具，比如给自家做的家庭清单。技术取向偏轻架构、可验证的交付。
 
 保持持续学习：2026 年 10 月学完 LangChain，11 月学完 LangGraph，目前正在学 Java，补齐后端与工程化视角。
 
@@ -50,6 +50,7 @@
 | 墨稿 InkDraft | 本地优先的 AI 网文写作工具：创意 → 大纲 → 分卷 → 章纲 → 正文，一键成书五段式流水线，草稿可编辑、AI 占比可追溯。 | React · Node.js · Tiptap | [GitHub](https://github.com/SingleShadow/inkdraft) · [Gitee](https://gitee.com/pro_coder/inkdraft)
 | Dyad（汉化 fork） | 本地开源 AI 应用构建器的个人 fork：42+ 提交界面汉化，覆盖设置、资源库与部署连接器，并修复 Windows 白屏与 EPERM 问题。 | Electron · React · i18n · Windows | [GitHub](https://github.com/SingleShadow/dyad) · [Gitee](https://gitee.com/pro_coder/dyad)
 | Agent Lab | LangGraph 工作流实验站：可视化步骤编排、SSE 逐步执行日志、Node 22 零依赖网关、Java 研报工具节点与结果卡片导出。 | React · LangGraph · Node.js · Java | [GitHub](https://github.com/SingleShadow/agent-lab) · [Gitee](https://gitee.com/pro_coder/agent-lab)
+| 家庭清单 | 真正用得上的家庭记录工具：物资、购物、宝宝用品、家庭待办，一处记清楚。支持待补货提醒、按人分工，PWA 可添加到手机桌面。 | React · Node.js · SQLite · PWA | [GitHub](https://github.com/SingleShadow/family-lists) · [Gitee](https://gitee.com/pro_coder/family-lists)
 
 ### 在研 / 独立项目
 
